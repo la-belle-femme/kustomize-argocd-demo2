@@ -2,7 +2,7 @@ name: Validate and Update Kustomize Configurations
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   validate-all-environments:
