@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/la-belle-femme/kustomize-argocd-demo2
-    targetRevision: master
+    targetRevision: main
     path: overlays/staging
   destination:
     server: https://kubernetes.default.svc
