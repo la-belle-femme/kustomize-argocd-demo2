@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/yourusername/kustomize-demo
+    repoURL: https://github.com/la-belle-femme/kustomize-argocd-demo2
     targetRevision: main
     path: overlays/staging
   destination:
